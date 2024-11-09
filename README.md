@@ -51,12 +51,14 @@ A digital recreation of the classic detective game **Scotland Yard**, featuring 
    git clone https://github.com/your-username/scotland-yard
    cd scotland-yard
 
-Rendering the map, nodes, edges, and player movements.
-Displaying the game's outcome.
-2. C++:
-Implements:
-Game rules and logic.
-Movement updates for Mr. X and detectives.
-Winning conditions.
-3. File Communication:
-Shared files enable Python and C++ to exchange data seamlessly.
+2. Install Python dependencies:
+ ```bash
+pip install pygame
+
+3. compile
+```bash
+g++ -o game GameVersion2.cpp
+
+4. run
+```bash
+.\game
