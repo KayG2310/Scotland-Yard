@@ -52,13 +52,13 @@ A digital recreation of the classic detective game **Scotland Yard**, featuring 
    cd scotland-yard
 
 2. Install Python dependencies:
- ```bash
-pip install pygame
+  ```bash
+  pip install pygame
 
 3. compile
-```bash
-g++ -o game GameVersion2.cpp
+  ```bash
+  g++ -o game GameVersion2.cpp
 
 4. run
-```bash
-.\game
+  ```bash
+  .\game
