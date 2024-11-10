@@ -55,10 +55,10 @@ A digital recreation of the classic detective game **Scotland Yard**, featuring 
   ```bash
   pip install pygame
 
-3. compile
+3. compile:
   ```bash
   g++ -o game GameVersion2.cpp
 
-4. run
+4. run:
   ```bash
-  .\game
+  ./game
