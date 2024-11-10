@@ -5,6 +5,8 @@
 A digital recreation of the classic detective game **Scotland Yard**, featuring a graphical interface powered by **Python (Pygame)** and game logic implemented in **C++**. This project demonstrates the integration of Python and C++ using file-based communication for real-time updates.
 
 ---
+![scyard](https://github.com/user-attachments/assets/d3f4d7a2-ecc9-44d2-b8d7-eea29316b8f5)
+
 
 ## **Features**
 - 🎨 **Graphical Map Interface**:
