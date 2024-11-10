@@ -50,18 +50,15 @@ A digital recreation of the classic detective game **Scotland Yard**, featuring 
    ```bash
    git clone https://github.com/your-username/scotland-yard
    cd scotland-yard
-Install Python dependencies:
 
-bash
-Copy code
-pip install pygame
-Compile:
+2. Install the dependencies:
+   ```bash
+   pip install pygame
 
-bash
-Copy code
-g++ -o game GameVersion2.cpp
-Run:
+3. Compile:
+   ```bash
+   g++ -o game GameVersion2.cpp
 
-bash
-Copy code
-./game
+4. Run:
+   ```bash
+   ./game
